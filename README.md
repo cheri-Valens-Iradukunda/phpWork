@@ -1,7 +1,9 @@
 # phpWork
 
-<img width="935" height="327" alt="Screenshot 2025-11-16 233613" src="https://github.com/user-attachments/assets/3e7a0a98-cc34-4cff-b1d0-450afec053a2" />
-<img width="1241" height="564" alt="Screenshot 2025-11-16 233649" src="https://github.com/user-attachments/assets/5c3aa275-9db3-4c87-b30c-9bd9128a66d5" />
+
+![WhatsApp Image 2025-11-16 at 11 50 10 PM (1)](https://github.com/user-attachments/assets/0754db84-8536-4d0a-acc6-4344cc6c4d60)
+![WhatsApp Image 2025-11-16 at 11 50 10 PM](https://github.com/user-attachments/assets/1e171107-cc45-4907-b503-56c21ae1b755)
+
 # Employee Management System
 
 A PHP-based Employee Management System with CRUD functionality, authentication, and session/cookie security. This project is developed for **RP Tumba College**, Module: **Develop Backend using PHP (Level 6, Year 2).**
